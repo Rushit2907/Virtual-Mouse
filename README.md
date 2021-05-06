@@ -13,7 +13,7 @@ By this project we can Control Mouse Cursor Movements using Color Detection.
 
 
 ## Demo:
-#### Output of DetectColor.py python file
+#### Output of .py python file
 ![](https://github.com/Rushit2907/Virtual-Mouse/blob/main/Output.gif)
 
 ## Facing any issues?
